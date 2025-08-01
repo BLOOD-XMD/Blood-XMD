@@ -1,12 +1,12 @@
 {
-  "name": "KAVI-MD",
+  "name": "BLOOD-XMD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By KAVIDU RASANGA.",
+  "description": "A WhatsApp Bot Created By SACHITHRA MADUSANKA.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KAVI-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name BLOOD-XMD",
     "stop": "pm2 stop Botname-MD",
-    "restart": "pm2 restart KAVI-MD"
+    "restart": "pm2 restart BLOOD-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
